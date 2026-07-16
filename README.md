@@ -293,8 +293,6 @@ Handled IT support and data operations, including solar production analytics and
 
 ## 🟣 Contribution Snake
 
-> ⚠️ Requires the `platane/snk` GitHub Action set up on your `Abdurrahman-Git/Abdurrahman-Git` profile repo to generate this file — it won't render until that workflow runs at least once.
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abdurrahman-Git/Abdurrahman-Git/output/github-contribution-grid-snake.svg" width="90%"/>
 </div>
