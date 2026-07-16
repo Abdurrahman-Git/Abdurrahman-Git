@@ -33,7 +33,7 @@
 
 <img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
 
-I'm a Data Analytics professional and final-year **BSc (Hons) Data Science** student (London Metropolitan University) based in Colombo, Sri Lanka, currently building applied **AI/GenAI systems** — RAG pipelines, multi-agent architectures, and LLM-powered platforms — on top of a foundation of real industry data analytics experience.
+I'm a Data Analytics professional and final-year **BSc (Hons) Data Science** student (London Metropolitan University) Via Esoft Uni, currently building applied **AI/GenAI systems** — RAG pipelines, multi-agent architectures, and LLM-powered platforms — on top of a foundation of real industry data analytics experience.
 
 Over the past year I've worked hands-on with international retail data across 10+ EMEA markets, translating raw datasets into decision-ready dashboards and reports. Alongside that, I've been self-directing a portfolio of AI/ML projects using LangChain, LangGraph, and the Google Gemini API — from a multi-agent career intelligence system to a hallucination-resistant enterprise RAG assistant.
 
