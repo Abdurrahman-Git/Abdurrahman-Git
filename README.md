@@ -10,7 +10,7 @@
 
 ![Education](https://img.shields.io/badge/BSc%20(Hons)%20Data%20Science-London%20Met-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![HND](https://img.shields.io/badge/HND%20Data%20Analytics-Esoft%20(Merit)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Colombo-Sri%20Lanka-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Gampaha-Sri%20Lanka-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
